@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="DSRetro",
+    name="imperium",
     version="0.0.1",
     author="DSRetro",
     author_email="dsretro@protonmail.com",
@@ -19,4 +19,6 @@ setuptools.setup(
         "Operating System :: OS Independent",
     ],
     python_requires='>=3.7',
+    entry_points={"console_scripts": ["imperium = imperium.imperium:main"]},
 )
+
