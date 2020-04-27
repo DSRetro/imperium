@@ -1,5 +1,4 @@
 # Imperium
 
-A programming language written in Python.
-
+![github-large]https://raw.githubusercontent.com/DSRetro/imperium/master/img/i.png
  
