@@ -33,7 +33,7 @@ CodePulse - For the idea and concepts used to make the project, check out his Yo
 
 Me :)
 
-## Thanks for checking out the project!!!
+## Thanks for checking out the project.
 
 
 
