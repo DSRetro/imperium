@@ -5,13 +5,14 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="imperium",
-    version="0.0.1",
+    version="0.1",
     author="DSRetro",
     author_email="dsretro@protonmail.com",
-    description="A programming language written in Python 3",
+    description="A programming language written in Python 3 and C",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/DSRetro/imperium",
+    license="MIT",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
