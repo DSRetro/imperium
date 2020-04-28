@@ -1,6 +1,6 @@
 # Imperium
 
-![github-large](https://raw.githubusercontent.com/DSRetro/imperium/master/img/i.png)
+![github-large](https://raw.githubusercontent.com/DSRetro/imperium/master/imperium/img/i.png)
 
 Imperium is a programming language built entirely in Python 3 and C. The aim isn't to produce a commercial language, but to produce a powerful, feature-rich interpreted language that can be used to produce both command line applications and simple GUIs. It is free for anyone to use and modify and I will aim to provide regular updates after the project is released.
 

@@ -1,3 +1,4 @@
 include imperium/VERSION
 include imperium/commands.txt
 include imperium/libs/*
+include imperium/img/*
