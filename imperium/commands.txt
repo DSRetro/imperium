@@ -1,0 +1,11 @@
+
+Imperium Console Commands:
+
+help:
+	Display list of commands;
+
+clear:
+	Clears the console;
+
+exit:
+	Exit Imperium Console;
